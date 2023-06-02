@@ -1,0 +1,27 @@
+[
+  {
+    "Hospital": "Kims_Hospital",
+    "Patientcount": "205",
+    "Location": "Anayara"
+  },
+  {
+    "Hospital": "SP_Fort",
+    "Patientcount": "150",
+    "Location": "Pazhavangadi"
+  },
+  {
+    "Hospital": "VV_Hospital",
+    "Patientcount": "155",
+    "Location": "Attingal"
+  },
+  {
+    "Hospital": "Amar_Hospital",
+    "Patientcount": "167",
+    "Location": "Attingal"
+  },
+  {
+    "Hospital": "AJ_Hospital",
+    "Patientcount": "125",
+    "Location": "Kazhakoottam"
+  }
+]
